@@ -1,0 +1,4 @@
+1. Navigate to Files tab and select a Subversion repo
+2. Select a file which has gone many revisions and commits
+3. Right click and select the option Compare Wth ..
+4. You get the below NPE
